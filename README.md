@@ -38,7 +38,7 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 Running seeders/seed.js is optional to have a prepopulated database.
 
 <p align="center">
-    <a href=""><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
+    <a href="https://fitnesstracker96.herokuapp.com"><img src="https://img.shields.io/badge/-👉 See Live Site-success?style=for-the-badge"  alt="Live Site" /></a>
 </p>
 
 ## Usage
