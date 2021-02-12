@@ -68,7 +68,7 @@ app.put("/api/workouts/:id", (req, res) => {
 
 ### Author
 
-- 💼 Japkirat Singh: [portfolio](japkirat96.github.io/protfolio.me/)
+- 💼 Japkirat Singh: [portfolio](https://japkirat96.github.io/Protfolio.me/)
 - :octocat: Github: [Japkirat96](https://github.com/JAPKIRAT96/fitnessTracker)
 
 ### Built With
@@ -86,7 +86,4 @@ app.put("/api/workouts/:id", (req, res) => {
 
 ## License
 
-</br>
-<p align="center">
-    <img align="center" src="https://img.shields.io/github/license/kqarlos/fitness-tracker?style=for-the-badge" alt="MIT license" />
-</p>
+#### MIT
