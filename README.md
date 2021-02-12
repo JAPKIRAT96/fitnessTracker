@@ -43,17 +43,17 @@ Running seeders/seed.js is optional to have a prepopulated database.
 
 ## Usage
 
+![usage](https://youtu.be/G7Eo4TvNX-Y)
+
 ### Screeshots
 
 1. Homepage displaying last workout
 
 ![Site](public/assets/homepage.png)
 
-2. Creating Workouts
+## [Site]
 
-![Site](public/assets/live.mov)
-
-3. Last Week's Summary
+2. Last Week's Summary
 
 ![Site](public/assets/dash.png)
 
